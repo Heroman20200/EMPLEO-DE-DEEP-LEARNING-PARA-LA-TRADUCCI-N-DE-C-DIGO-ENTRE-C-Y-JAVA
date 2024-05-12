@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\findnormalized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\findnormalized.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\methodrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\methodrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\testnormalizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\testnormalizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\globalvariablerewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\globalvariablerewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|c:\\users\\angel\\source\\repos\\testnormalizer\\testnormalizer\\literalsrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|testNormalizer\\testNormalizer.csproj|solutionrelative:testnormalizer\\literalsrewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MethodRewriter.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\MethodRewriter.cs",
+              "RelativeDocumentMoniker": "testNormalizer\\MethodRewriter.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\MethodRewriter.cs",
+              "RelativeToolTip": "testNormalizer\\MethodRewriter.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwHgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:41:24.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindNormalized.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\FindNormalized.cs",
+              "RelativeDocumentMoniker": "testNormalizer\\FindNormalized.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\FindNormalized.cs",
+              "RelativeToolTip": "testNormalizer\\FindNormalized.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:41:14.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "testNormalizer.csproj",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\testNormalizer.csproj",
+              "RelativeDocumentMoniker": "testNormalizer\\testNormalizer.csproj",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\testNormalizer.csproj",
+              "RelativeToolTip": "testNormalizer\\testNormalizer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T19:37:52.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\Program.cs",
+              "RelativeDocumentMoniker": "testNormalizer\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\Program.cs",
+              "RelativeToolTip": "testNormalizer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:33:24.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalVariableRewriter.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\GlobalVariableRewriter.cs",
+              "RelativeDocumentMoniker": "testNormalizer\\GlobalVariableRewriter.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\GlobalVariableRewriter.cs",
+              "RelativeToolTip": "testNormalizer\\GlobalVariableRewriter.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:32:42.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LiteralsRewriter.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\LiteralsRewriter.cs",
+              "RelativeDocumentMoniker": "testNormalizer\\LiteralsRewriter.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\testNormalizer\\testNormalizer\\LiteralsRewriter.cs",
+              "RelativeToolTip": "testNormalizer\\LiteralsRewriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T19:32:38.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

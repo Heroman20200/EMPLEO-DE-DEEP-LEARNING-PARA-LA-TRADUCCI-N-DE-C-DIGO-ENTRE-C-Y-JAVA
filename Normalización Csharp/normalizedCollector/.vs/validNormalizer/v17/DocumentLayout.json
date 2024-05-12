@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|c:\\users\\angel\\source\\repos\\validnormalizer\\validnormalizer\\literalscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|solutionrelative:validnormalizer\\literalscollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|c:\\users\\angel\\source\\repos\\validnormalizer\\validnormalizer\\methodandvariablecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|solutionrelative:validnormalizer\\methodandvariablecollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|c:\\users\\angel\\source\\repos\\validnormalizer\\validnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C405833E-B943-43FC-9550-7F55BC014033}|validNormalizer\\validNormalizer.csproj|solutionrelative:validnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LiteralsCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\LiteralsCollector.cs",
+              "RelativeDocumentMoniker": "validNormalizer\\LiteralsCollector.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\LiteralsCollector.cs",
+              "RelativeToolTip": "validNormalizer\\LiteralsCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:18:24.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MethodAndVariableCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\MethodAndVariableCollector.cs",
+              "RelativeDocumentMoniker": "validNormalizer\\MethodAndVariableCollector.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\MethodAndVariableCollector.cs",
+              "RelativeToolTip": "validNormalizer\\MethodAndVariableCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:55:16.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\Program.cs",
+              "RelativeDocumentMoniker": "validNormalizer\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\source\\repos\\validNormalizer\\validNormalizer\\Program.cs",
+              "RelativeToolTip": "validNormalizer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:55:16.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

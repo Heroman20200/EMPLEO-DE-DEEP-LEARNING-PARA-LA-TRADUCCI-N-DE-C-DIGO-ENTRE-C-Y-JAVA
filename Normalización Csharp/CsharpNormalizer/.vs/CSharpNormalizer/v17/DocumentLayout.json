@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\CSharp\\CsharpNormalizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|CSharpNormalizer\\CSharpNormalizer.csproj|c:\\users\\angel\\desktop\\csharp\\csharpnormalizer\\csharpnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|CSharpNormalizer\\CSharpNormalizer.csproj|solutionrelative:csharpnormalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|CSharpNormalizer\\CSharpNormalizer.csproj|c:\\users\\angel\\desktop\\csharp\\csharpnormalizer\\csharpnormalizer\\globalvariablerewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE70C69-DE27-4F9E-BDE5-5AAB1E5749A8}|CSharpNormalizer\\CSharpNormalizer.csproj|solutionrelative:csharpnormalizer\\globalvariablerewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CSharp\\CsharpNormalizer\\CSharpNormalizer\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpNormalizer\\Program.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CSharp\\CsharpNormalizer\\CSharpNormalizer\\Program.cs",
+              "RelativeToolTip": "CSharpNormalizer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:30:55.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalVariableRewriter.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\CSharp\\CsharpNormalizer\\CSharpNormalizer\\GlobalVariableRewriter.cs",
+              "RelativeDocumentMoniker": "CSharpNormalizer\\GlobalVariableRewriter.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\CSharp\\CsharpNormalizer\\CSharpNormalizer\\GlobalVariableRewriter.cs",
+              "RelativeToolTip": "CSharpNormalizer\\GlobalVariableRewriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:13:20.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
